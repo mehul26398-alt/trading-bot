@@ -1,0 +1,11 @@
+pyotp
+pandas
+numpy
+pytz
+python-dotenv
+smartapi-python
+python-telegram-bot==20.7
+scikit-learn
+xgboost
+websocket-client
+logzero
